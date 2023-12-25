@@ -1,7 +1,7 @@
 # Makefile for releasing podinfo
 #
 # The release version is controlled from pkg/version
-# Modified by Luis on 2023.12.25 for GitHub Update test.
+# Modified by Luis on 2023.12.25 for GitHub Update test
 
 TAG?=latest
 NAME:=podinfo
